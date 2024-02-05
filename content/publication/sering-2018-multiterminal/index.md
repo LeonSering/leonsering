@@ -10,7 +10,7 @@ publication_types:
 publication: "*Workshop on Algorithmic Approaches for Transportation Modelling, Optimization,
   and Systems (ATMOS'18)*"
 doi: 10.4230/OASIcs.ATMOS.2018.12
-abstract: <p align="justify">Nash flows over time describe the behavior of selfish users eager to reach
+abstract: Nash flows over time describe the behavior of selfish users eager to reach
   their destination as early as possible while traveling along the arcs of a network
   with capacities and transit times. Throughout the past decade, they have been thoroughly
   studied in single-source single-sink networks for the deterministic queuing model,
@@ -22,7 +22,7 @@ abstract: <p align="justify">Nash flows over time describe the behavior of selfi
   sources and sinks which are much more relevant in practical applications. In particular,
   we come up with a subtle generalization of thin flows with resetting which yields
   a compact description as well as an algorithmic approach for computing multi-terminal
-  Nash flows over time.</p>
+  Nash flows over time.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1807.01098

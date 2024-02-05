@@ -11,7 +11,7 @@ publication_types:
 - paper-conference
 publication: "*International Conference on Machine Learning (ICML'22)*"
 abstract: 
-  <p align="justify">
+  
   We consider two key issues faced by many clustering methods when used for
   data summarization, namely (a) an unfair representation of "demographic groups”
   and (b) distorted summarizations, where data points in the summary represent subsets
@@ -19,7 +19,7 @@ abstract:
   towards handling separately each of these two issues in the context of the fundamental
   k-Center clustering objective through the study of fast algorithms for natural models
   that address them. 
-  </p>
+  
 
   We show that it is possible to effectively address both (a) and
   (b) simultaneously by presenting a clustering procedure that works for a canonical

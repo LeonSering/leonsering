@@ -8,7 +8,7 @@ publishDate: '2024-02-04T16:35:35.043842Z'
 publication_types:
 - thesis
 doi: 10.14279/depositonce-10640
-abstract: <p align="justify">Motivated by the dynamic traffic assignment problem and with the goal in
+abstract: Motivated by the dynamic traffic assignment problem and with the goal in
   mind to obtain a better understanding of the complex traffic dynamics, we consider
   a dynamic game in a flow over time model with deterministic queuing in this thesis.
   The dynamic equilibria, called Nash flows over time, in the base version of this
@@ -73,5 +73,5 @@ abstract: <p align="justify">Motivated by the dynamic traffic assignment problem
   navigation system, might get re-routed as soon as the current traffic conditions
   change. As we only have to consider the current waiting times it becomes much easier
   to construct such IDE flows. In fact, we can even handle multi-commodity IDE flows
-  with the same thin flow technique we use for single-commodity Nash flows over time.</p>
+  with the same thin flow technique we use for single-commodity Nash flows over time.
 ---

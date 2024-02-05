@@ -143,6 +143,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p align="justify">
+
 I am a mathematician and computer scientist specializing in operations research, combinatorial optimization, and high-performance algorithm design. Currently serving as a PostDoc at the Institute of Operations Research at ETH Zürich, I lead multiple industry collaborations focusing on innovative solutions in vehicle routing and rolling-stock scheduling.
-Most notably, I am a curious individual, always eager to acquire fresh skills and knowledge and explore new, unfamiliar territories. This curiosity extends to my passion for the programming language Rust, where I find its unique features and performance capabilities particularly intriguing.</p>
+Most notably, I am a curious individual, always eager to acquire fresh skills and knowledge and explore new, unfamiliar territories. This curiosity extends to my passion for the programming language Rust, where I find its unique features and performance capabilities particularly intriguing.

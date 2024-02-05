@@ -23,7 +23,7 @@ and other Swiss cities. The primary objectives include efficiently managing deli
 considering driver shift schedules, vehicle capacity constraints, and minimizing both overtime costs and total driving 
 distance. Notably, the algorithm is designed to be exceptionally fast, ensuring real-time optimization for dynamic delivery 
 scenarios.
-<center>{{< figure src="driver_assignment.png" >}}</center>
+<center>{{< figure src="driver_assignment.png" caption="As a sub-routine the individual drivers are assigned optimally to the tours." numbered="true" >}}</center>
 
 ### Key Features:
 - Optimization Algorithm:
@@ -43,7 +43,7 @@ driver overtime expenses. This approach aims to ensure economic and sustainable 
 - Driving Distance Optimization:
 Alongside time-related constraints, the algorithm focuses on minimizing the total driving distance. This dual optimization 
 strategy, executed at remarkable speed, promotes environmentally friendly and resource-efficient delivery routes.
-<center>{{< figure src="segment_swap.png" >}}</center>
+<center>{{< figure src="segment_swap.png" caption="For a swap a segment of shipments are moved from the provider's to the receiver's tour." numbered="true">}}</center>
 
 ### Technological Stack:
 The project leverages a robust technological stack to implement and deploy the optimization algorithm:

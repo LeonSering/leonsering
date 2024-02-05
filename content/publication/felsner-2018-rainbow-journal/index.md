@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: '*SIAM Journal on Discrete Mathematics*'
 doi: 10.1137/18M1216456
-abstract: '<p align="justify">The flip graph of triangulations has as vertices all triangulations of
+abstract: 'The flip graph of triangulations has as vertices all triangulations of
   a convex n-gon, and an edge between any two triangulations that differ in exactly
   one edge. An r-rainbow cycle in this graph is a cycle in which every inner edge
   of the triangulation appears exactly r times. This notion of a rainbow cycle extends
@@ -23,7 +23,7 @@ abstract: '<p align="justify">The flip graph of triangulations has as vertices a
   two flip graphs on classes of non-geometric objects: the flip graph of permutations
   of 1,2,…,n and the flip graph of k-element subsets of 1,2,…,n. In each of the five
   settings, we prove the existence and non-existence of rainbow cycles for different
-  values of r, n and k.</p>'
+  values of r, n and k.'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1712.07421

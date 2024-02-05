@@ -138,9 +138,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        <p align="justify">Feel free to reach out for collaborative opportunities, academic discussions, or anything
+        Feel free to reach out for collaborative opportunities, academic discussions, or anything
         related to operations research, algorithm design, or Rust. I look forward to engaging with fellow enthusiasts
-        and professionals in the field!</p>
+        and professionals in the field!
       # Contact (add or remove contact options as necessary)
       email: leon@sering.eu
       #phone: 888 888 88 88

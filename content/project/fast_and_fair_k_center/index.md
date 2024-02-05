@@ -13,6 +13,8 @@ links:
     icon_pack: fab
     name: Code
     url: https://github.com/LeonSering/eth_sbb_rolling_stock_scheduling
+  - name: Publication
+    url: /publication/angelidakis-2022-fair
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
@@ -28,7 +30,10 @@ Our algorithm effectively addresses both issues simultaneously by presenting a c
 
 This project represents a significant step forward in the field of data summarization and clustering, offering a more fair and accurate representation of data. It has potential applications in a wide range of fields, from machine learning and data science to bioinformatics and network analysis.
 
-For more details, please refer to our ICML paper.
+For more details, please refer to our [ICML paper]({{< relref "/publication/angelidakis-2022-fair" >}}).
+<center>{{< figure src="plot.png" theme="light">}}</center>
+
 ### Technological Stack:
 The algorithm is developed in Rust, utilizing very fast parallel computing. It incorporates matching algorithms, flow algorithms, and other graph algorithms. Additionally, it provides Python bindings for ease of integration with Python-based projects.
+<center>{{< figure src="flow_network.png" theme="light">}}</center>
 

@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: '*Transportation Research Procedia*'
 doi: 10.1016/j.trpro.2021.01.014
-abstract: <p align="justify">This study examines the connection between an agent-based transport simulation
+abstract: This study examines the connection between an agent-based transport simulation
   and Nash flows over time. While the former is able to represent many details of
   traffic and model large-scale, real-world traffic situations with a co-evolutionary
   approach, the latter provides an environment for provable mathematical statements
@@ -24,6 +24,6 @@ abstract: <p align="justify">This study examines the connection between an agent
   convergence process when decreasing the vehicle and time step size in the simulation
   coherently. The experiments presented in this study indicate this strong connection
   which provides a justification for the analytical model and a theoretical foundation
-  for the simulation.</p>
+  for the simulation.
 ---
  A preliminary version was presented at The Euro Working Group on Transportation (EWGT'20).

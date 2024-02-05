@@ -9,7 +9,7 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'
 doi: 10.1109/TVCG.2011.191
-abstract: <p align="justify">Mobile users of maps typically need detailed information about their surroundings
+abstract: Mobile users of maps typically need detailed information about their surroundings
   plus some context information about remote places. In order to avoid that the map
   partly gets too dense, cartographers have designed mapping functions that enlarge
   a user-defined focus region - such functions are sometimes called fish-eye projections.
@@ -26,6 +26,6 @@ abstract: <p align="justify">Mobile users of maps typically need detailed inform
   instances of different sizes, our method generated output maps that were far less
   distorted than those generated with a predefined fish-eye projection. Future work
   is needed to automate the selection of roads relevant to the user. Furthermore,
-  we aim at fast heuristics for application in real-time systems.</p>
+  we aim at fast heuristics for application in real-time systems.
 ---
  A preliminary version was presented at IEEE Information Visualization Conference (INFOVIS'11).

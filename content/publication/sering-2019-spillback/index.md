@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: "*ACM-SIAM Symposium on Discrete Algorithms (SODA'19)*"
 doi: 10.1137/1.9781611975482.57
-abstract: <p align="justify">Modeling traffic in road networks is a widely studied but challenging problem, especially 
+abstract: Modeling traffic in road networks is a widely studied but challenging problem, especially 
   under the assumption that drivers act selfishly. A common approach used in simulation software is the deterministic 
   queuing model, for which the structure of dynamic equilibria has been studied extensively in the last couple of years. 
   The basic idea is to model traffic by a continuous flow that travels over time from a source to a sink through a network, 
@@ -23,7 +23,7 @@ abstract: <p align="justify">Modeling traffic in road networks is a widely studi
   the original model to our generalization and characterize dynamic equilibria, called Nash flows over time, by sequences 
   of particular static flows, we call spillback thin flows. Furthermore, we give a constructive proof for the existence 
   of dynamic equilibria, which suggests an algorithm for their computation. This solves an open problem stated by Koch 
-  and Skutella in 2010 [12].</p>
+  and Skutella in 2010 [12].
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1807.05862v1

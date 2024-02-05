@@ -22,7 +22,7 @@ In anticipation of the mobility landscape in the year 2050, Swiss Federal Railwa
 seamlessly efficient rail service. The primary focus is on optimizing rolling stock schedules within the evolving context of 
 futuristic mobility scenarios. The key objectives of this project are to minimize rolling stock units and the overall travel 
 distance, while adhering to strict maintenance regulations and meeting the dynamic passenger demand.
-<center>{{< figure src="schedule.png" >}}</center>
+<center>{{< figure src="schedule.png" caption="Optimized rolling stock schedule." numbered="true" >}}</center>
 
 ### Optimization Approach:
 Integrating cutting-edge methodologies, our optimization approach seamlessly combines local-search-metaheuristics 
@@ -30,7 +30,7 @@ and classic minimum-cost flow algorithms. The strategy systematically refines ro
 local modifications, such as exchanging adjusting train compositions, or exchanging a 
 sequence of service trips to another rolling stock vehicle. Simultaneously, 
 the optimality of classic minimum-cost flow algorithms ensures minimal overall costs.
-<center>{{< figure src="swap.png" >}}</center>
+<center>{{< figure src="swap.png" caption="A swap by exchanging a sequence of service trips." numbered="true">}}</center>
 
 ### Technological Stack:
 The project leverages a robust technological stack to implement and deploy the optimization algorithm:

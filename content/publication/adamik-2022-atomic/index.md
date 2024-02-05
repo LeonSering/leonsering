@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: "*Symposium on Algorithmic Foundations of Dynamic Networks (SAND'22)*"
 doi: https://doi.org/10.4230/LIPIcs.SAND.2022.4
-abstract: <p align="justify">In an atomic splittable flow over time game, finitely many players route
+abstract: In an atomic splittable flow over time game, finitely many players route
   flow dynamically through a network, in which edges are equipped with transit times,
   specifying the traversing time, and with capacities, restricting flow rates. Infinitesimally
   small flow particles controlled by the same player arrive at a constant rate at
@@ -27,7 +27,7 @@ abstract: <p align="justify">In an atomic splittable flow over time game, finite
   always lead to a unique feasible flow over time. Hence, those atomic splittable
   flow over time games are well-defined. For parallel-edge networks Nash equilibria
   exists and the total flow arriving in time equals the value of a maximum flow over
-  time leading to a price of anarchy of 1.</p>
+  time leading to a price of anarchy of 1.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2010.02148

@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: "*International Symposium on Algorithmic Game Theory (SAGT'20)*"
 doi: 10.1007/978-3-030-57980-7_9
-abstract: <p align="justify">Predicting selfish behavior in public environments by considering Nash equilibria
+abstract: Predicting selfish behavior in public environments by considering Nash equilibria
   is a central concept of game theory. For the dynamic traffic assignment problem
   modeled by a flow over time game, in which every particle tries to reach its destination
   as fast as possible, the dynamic equilibria are called Nash flows over time. So
@@ -24,7 +24,7 @@ abstract: <p align="justify">Predicting selfish behavior in public environments 
   of the particles in dynamic equilibria can be characterized by specific static flows,
   called thin flows with resetting. The second main result is the existence of Nash
   flows over time, which we show in a constructive manner by extending a flow over
-  time step by step by these thin flows.</p>
+  time step by step by these thin flows.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2007.01525

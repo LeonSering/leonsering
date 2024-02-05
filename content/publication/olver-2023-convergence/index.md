@@ -11,7 +11,7 @@ publication_types:
 - paper-conference
 publication: "*Annual Symposium on Foundations of Computer Science (FOCS'23)*"
 doi: 10.1109/FOCS57990.2023.00016
-abstract: <p align="justify">We consider a dynamic model of traffic that has received a lot of attention
+abstract: We consider a dynamic model of traffic that has received a lot of attention
   in the past few years. Infinitesimally small agents aim to travel from a source
   to a destination as quickly as possible. Flow patterns vary over time, and congestion
   effects are modeled via queues, which form based on the deterministic queueing model
@@ -28,5 +28,5 @@ abstract: <p align="justify">We consider a dynamic model of traffic that has rec
   unified way. More precisely, we introduce a notion of “strict” {{< math >}}$\varepsilon${{< /math >}}-equilibria, and
   show that these must converge to the exact dynamic equilibrium in the limit as {{< math >}}$\varepsilon \to 0${{< /math >}}.
   We then show that results for the two settings mentioned can be deduced from this
-  with only moderate further technical effort.</p>
+  with only moderate further technical effort.
 ---

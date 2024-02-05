@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: "*International Symposium on Algorithmic Game Theory (SAGT'20)*"
 doi: 10.1007/978-3-030-57980-7_8
-abstract: <p align="justify">Flows over time enable a mathematical modeling of traffic that changes as
+abstract: Flows over time enable a mathematical modeling of traffic that changes as
   time progresses. In order to evaluate these dynamic flows from a game theoretical
   perspective we consider the price of anarchy (PoA). In this paper we study the impact
   of spillback effects on the PoA, which turn out to be substantial. It is known that,
@@ -23,7 +23,7 @@ abstract: <p align="justify">Flows over time enable a mathematical modeling of t
   the given network. It therefore provides a way to quantify the impact of spillback
   to the quality of the dynamic equilibria. In addition, we show the surprising fact
   that the introduction of spillback behavior can actually speed up dynamic equilibria
-  in some networks.</p>
+  in some networks.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2007.04218

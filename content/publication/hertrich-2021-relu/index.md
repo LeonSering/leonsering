@@ -10,7 +10,7 @@ publication_types:
 publication: "*International Conference on Integer Programming and Combinatorial Optimization
   (IPCO '23)*"
 doi: 10.1007/978-3-031-32726-1_14
-abstract: <p align="justify">This paper studies the expressive power of artificial neural networks with
+abstract: This paper studies the expressive power of artificial neural networks with
   rectified linear units. In order to study them as a model of real-valued computation,
   we introduce the concept of Max-Affine Arithmetic Programs and show equivalence
   between them and neural networks concerning natural complexity measures. We then
@@ -22,7 +22,7 @@ abstract: <p align="justify">This paper studies the expressive power of artifici
   with n nodes and m arcs, there is a neural network of size {{< math >}}$O(m^2n^2)${{< /math >}} that takes
   the arc capacities as input and computes a maximum flow. Our results imply that
   these two problems can be solved with strongly polynomial time algorithms that solely
-  uses affine transformations and maxima computations, but no comparison-based branchings.</p>
+  uses affine transformations and maxima computations, but no comparison-based branchings.
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2102.06635

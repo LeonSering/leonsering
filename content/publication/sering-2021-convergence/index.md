@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: '*Mathematics of Operations Research (MOR)*'
 doi: 10.1287/moor.2022.1318
-abstract: '<p align="justify">The mathematical approaches for modeling dynamic traffic can roughly be
+abstract: 'The mathematical approaches for modeling dynamic traffic can roughly be
   divided into two categories: discrete packet routing models and continuous flow
   over time models. Despite very vital research activities on models in both categories,
   the connection between these approaches was poorly understood so far. In this work
@@ -27,7 +27,7 @@ abstract: '<p align="justify">The mathematical approaches for modeling dynamic t
   is very application-oriented as it is based on the network loading module of the
   agent-based transport simulation MATSim. As the present work is the first mathematical
   formalization of this simulation, it provides a theoretical foundation and an environment
-  for provable mathematical statements for MATSim.</p>'
+  for provable mathematical statements for MATSim.'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2105.13202

@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publication: '*Mathematical Programming*'
 doi: 10.1007/s10107-020-01504-2
-abstract: '<p align="justify">We study dynamic network flows and introduce a notion of instantaneous
+abstract: 'We study dynamic network flows and introduce a notion of instantaneous
   dynamic equilibrium (IDE) requiring that for any positive inflow into an edge, this
   edge must lie on a currently shortest path towards the respective sink. We measure
   current shortest path length by current waiting times in queues plus physical travel
@@ -20,7 +20,7 @@ abstract: '<p align="justify">We study dynamic network flows and introduce a not
   assuming bounded and finitely lasting inflow rates, 3. the existence of IDE flows
   for multi-source multi-sink instances assuming general measurable network inflow
   rates, 4. the existence of a complex single-source multi-sink instance in which
-  any IDE flow is caught in cycles and flow remains forever in the network.</p>'
+  any IDE flow is caught in cycles and flow remains forever in the network.'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1811.07381

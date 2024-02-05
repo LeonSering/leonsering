@@ -1,10 +1,10 @@
 ---
-title: Fast and Fair k-Center Clustering
-summary: A linear-time clustering algorithm with fairness conditions, worst-case guarantees that is very fast in practice. 
+title: Fair and Fast k-Center Clustering
+summary: A linear-time k-center algorithm with fairness conditions and worst-case guarantees that is very fast in practice. 
   Written in Rust with Python bindings.
 tags:
   - Optimization
-date: '2024-02-05T00:00:00Z'
+date: '2022-01-28T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
@@ -12,7 +12,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: https://github.com/LeonSering/eth_sbb_rolling_stock_scheduling
+    url: https://github.com/LeonSering/fair_and_fast_k_center_clustering
   - name: Publication
     url: /publication/angelidakis-2022-fair
 # url_code: ''
@@ -31,9 +31,9 @@ Our algorithm effectively addresses both issues simultaneously by presenting a c
 This project represents a significant step forward in the field of data summarization and clustering, offering a more fair and accurate representation of data. It has potential applications in a wide range of fields, from machine learning and data science to bioinformatics and network analysis.
 
 For more details, please refer to our [ICML paper]({{< relref "/publication/angelidakis-2022-fair" >}}).
-<center>{{< figure src="plot.png" theme="light">}}</center>
+<center>{{< figure src="plots.png" caption="Comparison to the previous best algorithm by Jones, Nguyen, and Nguyen from 2020 with and without privacy constraint." numbered="true">}}</center>
 
 ### Technological Stack:
 The algorithm is developed in Rust, utilizing very fast parallel computing. It incorporates matching algorithms, flow algorithms, and other graph algorithms. Additionally, it provides Python bindings for ease of integration with Python-based projects.
-<center>{{< figure src="flow_network.png" theme="light">}}</center>
+<center>{{< figure src="flow_network.png" caption="The algorithm utilizes fast maximum flow computation to open representative centers." numbered="true">}}</center>
 

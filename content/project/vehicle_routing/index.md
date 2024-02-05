@@ -3,7 +3,7 @@ title: Fast Same-Day Delivery Optimization
 summary: A collaboration between Swiss Post / Notime and ETH Zurich.
 tags:
   - Optimization
-date: '2024-02-05T00:00:00Z'
+date: '2023-08-04T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 

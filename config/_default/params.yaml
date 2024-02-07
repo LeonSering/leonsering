@@ -10,6 +10,9 @@ appearance:
   font: minimal
   font_size: L
 
+# removing the hugo blox footer:
+i_am_a_sponsor: true
+
 # SEO
 marketing:
   seo:

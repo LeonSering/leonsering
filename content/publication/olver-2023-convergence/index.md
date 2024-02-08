@@ -29,4 +29,7 @@ abstract: We consider a dynamic model of traffic that has received a lot of atte
   show that these must converge to the exact dynamic equilibrium in the limit as {{< math >}}$\varepsilon \to 0${{< /math >}}.
   We then show that results for the two settings mentioned can be deduced from this
   with only moderate further technical effort.
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2402.04935
 ---

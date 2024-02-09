@@ -27,7 +27,7 @@ sections:
         - title: Operations Research Expert (Freelancer)
           company: Optano GmbH
           company_url: 'https://optano.com/'
-          company_logo:
+          company_logo: optano
           location: Paderborn, Germany
           date_start: '2023-05-01'
           date_end: '2023-06-30'

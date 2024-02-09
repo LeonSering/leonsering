@@ -1,6 +1,7 @@
 ---
 title: Axonium
-summary: Automatically measuring the legnth of axons.
+summary: Automatically measuring the length of axons, the nerve fiber connections between neurons in a biological brain.
+
 tags:
   - Small
 date: '2017-07-01T00:00:00Z'
@@ -18,7 +19,7 @@ links:
 # url_video: ''
 ---
 Axonium is a tool for automatically measuring the length of [axons](https://en.wikipedia.org/wiki/Axon), 
-the nerve fiber connection neurons in a biological brain.
+the nerve fiber connections between neurons in a biological brain.
 
 During her studies in the neurology, my girlfriend had to measure the length of a lot of axons. 
 They used ImageScope to load the TIFF-image and then measure the length (in pixel) by a simple ruler 

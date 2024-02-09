@@ -1,6 +1,6 @@
 ---
 title: BWInf - Information Day Optimization
-summary: Excercise from the second round of the German national computer science competition in 2008
+summary: Excercise from the second round of the German national computer science competition in 2008.
 
 tags:
   - Small

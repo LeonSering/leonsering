@@ -2,23 +2,26 @@ p, ul {
   text-align: justify
 }
 
-
+// all images
 img {
-  box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
-  border-radius: 5px;
-  box-shadow: -2px 2px 10px 0 rgba(68,68,68,0.4);
-  &:hover {
-    // transition: transform 0.3s ease-in-out;
-    // tranisition: all 0.3s ease-in-out;
-    transform: scale(1.05);
-    transition: transform 0.3s cubic-bezier(.2,0,.2,1);
-  }
   transition: all 0.3s ease-out;
 }
 
+// pictures in project overview and travelling overview
+.view-showcase{
+  img {
+    box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    &:hover {
+      transform: scale(1.02);
+      transition: all 0.3s cubic-bezier(.2,0,.2,1);
+      box-shadow: 0px 8px 16px 2px rgba(0, 0, 0, 0.2);
+    }
+  }
+}
 
-
-.wg-portfolio{ // images in project overview
+// images only in project overview
+.wg-portfolio{
   img:first-of-type {
     margin-top: 20px; // +20 pixel to give shadow effect some space
   }
@@ -27,25 +30,20 @@ img {
   }
 }
 
-
-.wg-collection{ // pictures in travelling overview
-  img {
-    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
-    border-radius: 3px;
-  }
-  img:first-of-type {
-    margin-top: 10px;
-  }
-}
-
-.view-compact{ // images in next to publications on landing page
+// images in next to publications on landing page
+.view-compact{
   img {
     max-height: 130px;
     width: auto;
     flex-grow: 1;
     display: block;
     margin: 0 auto;
-    box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    box-shadow: 0px 1px 5px 2px rgba(0, 0, 0, 0.2);
+    &:hover {
+      transition: all 0.3s cubic-bezier(.2,0,.2,1);
+      box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.2);
+    }
   }
   .media-body {
     flex-basis: 80%;
@@ -53,5 +51,25 @@ img {
   }
   .ml-3 {
     flex-grow: 1;
+  }
+}
+
+.article-project,.pub {
+    img {
+    border-radius: 10px;
+    }
+
+}
+
+// route image in travelling gallery
+.wg-markdown{
+  .w-100 {
+    img {
+      box-shadow: -2px 2px 10px 0 rgba(68, 68, 68, 0.4);
+      &:hover {
+        transform: scale(1.03);
+        transition: transform 0.3s ease-in-out;
+      }
+    }
   }
 }

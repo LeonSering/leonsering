@@ -2,6 +2,7 @@
 title: Focus Region Tool
 summary: A tool to enlarge a focus region in a road map while minimizing the distortion by convex quadratic programming.
 tags:
+  - Major
   - Optimization
 date: '2011-01-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).

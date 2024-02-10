@@ -87,10 +87,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Major
+          tag: Major
+        - name: Minor
+          tag: Minor
         - name: Optimization
           tag: Optimization
-        - name: Small
-          tag: Small
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

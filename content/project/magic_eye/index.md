@@ -3,7 +3,7 @@ title: Magic Eye
 summary: A small python3 script to create a autostereogram.
 
 tags:
-  - Small
+  - Minor
 date: '2016-09-24T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

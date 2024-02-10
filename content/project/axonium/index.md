@@ -3,7 +3,7 @@ title: Axonium
 summary: Automatically measuring the length of axons, the nerve fiber connections between neurons in a biological brain.
 
 tags:
-  - Small
+  - Minor
 date: '2017-07-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

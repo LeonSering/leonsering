@@ -3,6 +3,7 @@ title: Fair and Fast k-Center Clustering
 summary: A linear-time k-center algorithm with fairness conditions and worst-case guarantees that is very fast in practice. 
   Written in Rust with Python bindings.
 tags:
+  - Major
   - Optimization
 date: '2022-01-28T00:00:00Z'
 # Optional external URL for project (replaces project detail page).

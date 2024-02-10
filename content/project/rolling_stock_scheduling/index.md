@@ -2,6 +2,7 @@
 title: Rolling Stock Scheduling Optimization
 summary: A collaboration between Swiss Federal Railways (SBB) and ETH Zurich.
 tags:
+  - Major
   - Optimization
 date: '2024-02-05T00:00:00Z'
 # Optional external URL for project (replaces project detail page).

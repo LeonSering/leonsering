@@ -147,20 +147,20 @@ sections:
       email: leon@sering.eu
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
-      address:
-        street: Rämistrasse 101
-        city: Zürich
-        postcode: '8092'
-        country: Switzerland
-        country_code: CH
+#      address:
+#        street: Rämistrasse 101
+#        city: Zürich
+#        postcode: '8092'
+#        country: Switzerland
+#        country_code: CH
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '47.3769'
-        longitude: '8.5482'
+#      coordinates:
+#        latitude: '47.3769'
+#        longitude: '8.5482'
       #contact_links:
         #- icon: twitter
           #icon_pack: fab

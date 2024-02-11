@@ -19,42 +19,49 @@ date: '2023-08-04T00:00:00Z'
 # url_video: ''
 ---
 ### Project Objectives:
-The collaboration between ETH Zurich and Swiss Post / Notime aims to optimize same-day shipment delivery in Zurich, Bern
-and other Swiss cities. The primary objectives include efficiently managing deliveries within specified time windows,
-considering driver shift schedules, vehicle capacity constraints, and minimizing both overtime costs and total driving
-distance. Notably, the algorithm is designed to be exceptionally fast, ensuring real-time optimization for dynamic delivery
-scenarios.
+The collaboration between Swiss Post (and its subsidiary company Notime) and ETH Zurich is to optimize same-day shipment delivery in Zurich, Bern
+and eight other Swiss cities. 
+The primary objectives consist of efficiently scheduling shipments to driver tours while minimizing the number of late shipments, 
+the driver costs and the total driving distance.
+
+All shipments are sorted at one central hub, each of them have an individual delivery location a specified time windows for drop-off.
+Drivers come with different shifts and experience levels. Some drivers might only work half of a day, but be ready-on-demand for the other half (stand-by-time).
+In addition, vehicles have a capacity on how many shipments can be transported.
+Notably, the algorithm is designed to be exceptionally fast, ensuring real-time optimization for the same-day-delivery for e-commerce (Digitec) and short-term grocery delivery (Migros).
+
 <center>{{< figure src="driver_assignment.png" caption="As a sub-routine the individual drivers are assigned optimally to the tours." numbered="true" >}}</center>
 
 ### Key Features:
+
 - Optimization Algorithm:
-The project utilizes a sophisticated optimization algorithm written in Scala 3. Employing local-search meta-heuristics and
-leveraging state-of-the-art traveling salesman subroutines, the algorithm intelligently plans and optimizes delivery routes,
-with a strong emphasis on speed for real-time planning.
-- Hub-Centric Approach:
-Shipments originate from a central hub, and the algorithm efficiently manages distribution to destinations within specified
-time windows. It takes into account vehicle capacities and driver shift constraints, optimizing routes in real-time to meet
-stringent delivery timelines.
-- Asymmetric Travel Time Handling:
-The algorithm accommodates asymmetric travel times, considering the challenges posed by one-way roads and varying terrains.
-This feature is particularly crucial for efficient bicycle-based deliveries.
-- Cost Minimization:
-The optimization algorithm prioritizes the minimization of overall delivery costs, with a particular emphasis on mitigating
-driver overtime expenses. This approach aims to ensure economic and sustainable delivery operations without compromising on speed.
-- Driving Distance Optimization:
-Alongside time-related constraints, the algorithm focuses on minimizing the total driving distance. This dual optimization
-strategy, executed at remarkable speed, promotes environmentally friendly and resource-efficient delivery routes.
-<center>{{< figure src="segment_swap.png" caption="For a swap a segment of shipments are moved from the provider's to the receiver's tour." numbered="true">}}</center>
+The sophisticated optimization algorithm is written in Scala 3 and consists of local-search meta-heuristics (variable neighborhood search, tabu search) utilizing optimal hierarchical matching algorithms and
+a state-of-the-art traveling salesman subroutine.
+
+- Constraints:
+Shipments originate from a central hub, and the algorithm efficiently distribute the shipments to driver tours for delivery within specified
+time windows. It takes vehicle capacities, different driver profiles (shift, experience level) as well as drop-off times into account.
+
+- Asymmetric Travel Times:
+The algorithm handles asymmetric travel times, caused by one-way roads and varying terrains.
+This feature is particularly crucial for efficient bicycle-based deliveries in hilly areas.
+
+- Objective:
+The objective is to deliver all shipments within their time limits while minimizing overall delivery costs, which are caused by drivers' overtime or used stand-by-time, and the total driving distance.
+
+- Robustness:
+The provided driving times are estimates given by a travel time provider. As the real experienced driving times will differ from these estimates and unforeseen delays might always happen, the schedule has to be robust.
+We designed our algorithm to be resilient against these uncertainties.
+
+<center>{{< figure src="segment_swap.png" caption="For a swap, a segment of shipments is moved from the provider's to the receiver's tour." numbered="true">}}</center>
 
 ### Technological Stack:
-The project leverages a robust technological stack to implement and deploy the optimization algorithm:
+In order to fit seamlessly into the Notime framework, we used the following tool set:
 
-- Scala 3: The core programming language for developing the optimization algorithm.
-- Docker: Used for containerization, providing a consistent and isolated environment for seamless deployment across different systems.
-- HTTP Server: Facilitates communication and interaction with the optimization algorithm, allowing for efficient integration
-into various systems and platforms.
+- Scala 3: An object-orientated and functional programming language running on a Java virtual machine.
+- Docker: Containerization, providing a consistent and isolated environment for seamless deployment.
+- HTTP Server: For efficient integration into the Notime framework.
 
 ### Project Leadership:
-I led this collaborative effort, taking charge of project management, strategy, and actively participating in the development process.
-As a key contributor, my role also involves the design, development, and implementation of the optimization algorithm.
-Leveraging Scala 3, Docker, and an HTTP server,
+I led this collaboration for two years, taking charge of project management, strategy, and development.
+As a key contributor, my role also involves the design, development, and implementation of the optimization algorithm, as well as the communication and requirement engineering with Notime.
+I successfully introduced several agile concepts for an improved coordination within the small team.

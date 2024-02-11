@@ -22,8 +22,8 @@ abstract: Modeling traffic in road networks is a widely studied but challenging 
   can cause queues on previous arcs and blockages of intersections, i.e., spillback. We carry over the main results of 
   the original model to our generalization and characterize dynamic equilibria, called Nash flows over time, by sequences 
   of particular static flows, we call spillback thin flows. Furthermore, we give a constructive proof for the existence 
-  of dynamic equilibria, which suggests an algorithm for their computation. This solves an open problem stated by Koch 
-  and Skutella in 2010 [12].
+  of dynamic equilibria, which suggests an algorithm for their computation. This solves an open problem stated by [Koch 
+  and Skutella in 2010](https://doi.org/10.1007/s00224-010-9299-y).
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1807.05862v1

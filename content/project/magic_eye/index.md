@@ -21,7 +21,7 @@ links:
 As a child I was fascinated from the Magic Eye Book and much later I was eager to figure out how this depth perception actually works.
 The result was this small script which I used to "impress" my co-workers and my girlfriend in a nerdy way. ;-)
 
-#### Obtaining Depth Perception
+### Obtaining Depth Perception
 To obtain the depth perception you have to squint your eyes in the "wall-eyed"-way (meaning that you have to focus behind the screen).
 The easiest way to achieve this is to make the magic_eye picture about 30 - 40 cm wide on the screen and then put your face close to
 the to it (a distance of 40 cm should work). Try to focus behind the screen to see the effect. If it does not work, get closer to the screen.

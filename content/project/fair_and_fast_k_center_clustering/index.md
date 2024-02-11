@@ -1,6 +1,6 @@
 ---
 title: Fair and Fast k-Center Clustering
-summary: A linear-time k-center algorithm with fairness conditions and worst-case guarantees that is very fast in practice. 
+summary: A linear-time k-center algorithm with fairness conditions and worst-case guarantees that is very fast in practice.
   Written in Rust with Python bindings.
 tags:
   - Major
@@ -22,19 +22,27 @@ links:
 # url_video: ''
 ---
 ### Project Objectives:
-This project revolves around the development of a highly efficient k-center algorithm, which was accepted at the International Conference on Machine Learning (ICML). The algorithm addresses two key issues faced by many clustering methods when used for data summarization:
+This project is about a highly efficient k-center algorithm, which is a central piece of [our publication](/publication/angelidakis-2022-fair)
+at the International Conference on Machine Learning (ICML). The algorithm addresses two key issues faced by many clustering
+methods when used for data summarization:
 
 1. Unfair representation of “demographic groups”.
 2. Distorted summarizations, where data points in the summary represent subsets of the original data of vastly different sizes.
 
-Our algorithm effectively addresses both issues simultaneously by presenting a clustering procedure that works for a canonical combined model. It is fast, both in theory and practice, with a linear-running time in the number of points, exhibits a worst-case constant-factor guarantee, and gives promising computational results showing that there can be significant benefits in addressing both issues together instead of sequentially.
-
-This project represents a significant step forward in the field of data summarization and clustering, offering a more fair and accurate representation of data. It has potential applications in a wide range of fields, from machine learning and data science to bioinformatics and network analysis.
+Our k-center algorithm effectively addresses both issues simultaneously. It is fast, both in theory and practice, with a
+linear-running time in the number of points, exhibits a worst-case constant-factor guarantee, and gives promising computational
+results showing that there can be significant benefits in adressing both issues together instead of sequentially.
 
 For more details, please refer to our [ICML paper]({{< relref "/publication/angelidakis-2022-fair" >}}).
 <center>{{< figure src="plots.png" caption="Comparison to the previous best algorithm by Jones, Nguyen, and Nguyen from 2020 with and without privacy constraint." numbered="true">}}</center>
 
 ### Technological Stack:
-The algorithm is developed in Rust, utilizing very fast parallel computing. It incorporates matching algorithms, flow algorithms, and other graph algorithms. Additionally, it provides Python bindings for ease of integration with Python-based projects.
+The algorithm is developed in Rust, utilizing very fast parallel computing. It incorporates matching algorithms, basic k-center
+algorithms, flow computations, and other graph procedures. Additionally, we provide Python bindings for ease of integration
+with Python-based projects.
 <center>{{< figure src="flow_network.png" caption="The algorithm utilizes fast maximum flow computation to open representative centers." numbered="true">}}</center>
 
+### My Role
+The very high-level idea of the algorithm was a team-effort, however, the implementation and the specification of the details
+(and there are a lot of details) was my job. The main challenge was to keep the promised running time of $O(nk^2 + k^5)$
+which required a lot of extra tweaks, which are listed in the appendix of the paper.

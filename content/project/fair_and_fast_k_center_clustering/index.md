@@ -14,6 +14,12 @@ links:
     icon_pack: fab
     name: Code
     url: https://github.com/LeonSering/fair_and_fast_k_center_clustering
+  - name: Doc
+    icon: rust
+    icon_pack: fab
+    url: https://docs.rs/ff_k_center/1.2.2/
+  - name: Crate
+    url: https://crates.io/crates/ff_k_center
   - name: Publication
     url: /publication/angelidakis-2022-fair
 # url_code: ''

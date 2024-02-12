@@ -17,7 +17,7 @@ links:
   - name: Doc
     icon: rust
     icon_pack: fab
-    url: https://docs.rs/ff_k_center/1.2.2/
+    url: https://docs.rs/ff_k_center/
   - name: Crate
     url: https://crates.io/crates/ff_k_center
   - name: Publication

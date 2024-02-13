@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Leon Sering # Website name
-baseURL: 'https://leon.sering.eu/' # Website URL
+baseURL: 'https://leonsering.github.io/leonsering/' # Website URL
 
 ############################
 ## LANGUAGE

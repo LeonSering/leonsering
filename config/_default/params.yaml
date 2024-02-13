@@ -9,6 +9,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  mode: system
 
 # removing the hugo blox footer:
 i_am_a_sponsor: true

@@ -37,7 +37,7 @@ methods when used for data summarization:
 
 Our k-center algorithm effectively addresses both issues simultaneously. It is fast, both in theory and practice, with a
 linear-running time in the number of points, exhibits a worst-case constant-factor guarantee, and gives promising computational
-results showing that there can be significant benefits in adressing both issues together instead of sequentially.
+results showing that there can be significant benefits in addressing both issues together instead of sequentially.
 
 For more details, please refer to our [ICML paper]({{< relref "/publication/angelidakis-2022-fair" >}}).
 <center>{{< figure src="plots.png" caption="Comparison to the previous best algorithm by Jones, Nguyen, and Nguyen from 2020 with and without privacy constraint." numbered="true">}}</center>

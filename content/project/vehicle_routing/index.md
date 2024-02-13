@@ -29,7 +29,7 @@ Drivers come with different shifts and experience levels. Some drivers might onl
 In addition, vehicles have a capacity on how many shipments can be transported.
 Notably, the algorithm is designed to be exceptionally fast, ensuring real-time optimization for the same-day-delivery for e-commerce (Digitec) and short-term grocery delivery (Migros).
 
-<center>{{< figure src="driver_assignment.png" caption="As a sub-routine the individual drivers are assigned optimally to the tours." numbered="true" >}}</center>
+<center>{{< figure src="driver_assignment.png" caption="As a sub-routine, the individual drivers are assigned optimally to the tours." numbered="true" >}}</center>
 
 ### Key Features:
 

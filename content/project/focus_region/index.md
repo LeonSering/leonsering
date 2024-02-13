@@ -21,7 +21,7 @@ links:
 # url_video: ''
 ---
 I developed this tool during the research project on "focus regions" at the university of Würzburg in collaboration
-with Jan-Henrik Haunert. This leads to my [first publication](../../publication/haunert-2011-roadmap).
+with Jan-Henrik Haunert. This leads to my [first publication](/publication/haunert-2011-roadmap).
 
 ### Project Objective:
 The tool allows the user to choose a focus region within a larger area on a road map, together with a zoom factor.

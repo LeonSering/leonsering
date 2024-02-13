@@ -28,7 +28,7 @@ links:
 # url_video: ''
 ---
 ### Project Objectives:
-This project is about a highly efficient k-center algorithm, which is a central piece of [our publication](../../publication/angelidakis-2022-fair)
+This project is about a highly efficient k-center algorithm, which is a central piece of [our publication](/publication/angelidakis-2022-fair)
 at the International Conference on Machine Learning (ICML). The algorithm addresses two key issues faced by many clustering
 methods when used for data summarization:
 

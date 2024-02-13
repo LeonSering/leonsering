@@ -18,7 +18,7 @@ abstract: We study the long-term behavior of dynamic traffic equilibria and find
   of a single-commodity instance with constant inflow rate, the Nash flow over time
   consists of infinitely many phases. This is in contrast to what has been proven
   for Nash flows over time without spillback [[Cominetti et al., 2021](https://doi.org/10.1287/opre.2020.2081); [Olver et
-  al., 2021](../olver-2022-continuity)]. Additionally, we show that similar phase oscillations as in the Nash
+  al., 2021](/publication/olver-2022-continuity)]. Additionally, we show that similar phase oscillations as in the Nash
   flow over time with spillback can be observed in the co-evolutionary transport simulation
   MATSim. This reaffirms the robustness of the findings as the simulation does (in
   contrast to Nash flows over time) not lead to exact user equilibra and, moreover,

@@ -156,7 +156,7 @@ My programming language of choice? **Rust**.
 This high performance system programming language, with focus on parallelism/concurrency, is the perfect tool for my projects.
 Plus, it's just plain fun to use!
 
-In my downtime, you will find me (together with my familiy) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.
+In my downtime, you will find me (together with my family) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.
 
 ## Welcome to my website!
 Here, I showcase my [project](#projects), my [scientific work](#publications), and our incredible [travel adventures](#travelling).

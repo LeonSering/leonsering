@@ -1,7 +1,6 @@
 ---
 title: Nash Flow Computation
-summary: A linear-time k-center algorithm with fairness conditions and worst-case guarantees that is very fast in practice.
-  Written in Rust with Python bindings.
+summary: A GUI-tool for computing Nash flows over time with or without spillback as well as (spillback) thin flows.
 tags:
   - Major
   - Optimization

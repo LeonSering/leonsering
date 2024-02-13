@@ -26,14 +26,14 @@ They used ImageScope to load the TIFF-image and then measure the length (in pixe
 tool and then enter the value into Excel.
 
 As it was necessary to measures thousands of axons, and each measurement took quite long and was error prune,
-I decided to write a small tool, to make this automatically.
+I decided to write a small tool, to automate this process.
 
 <center>{{< figure src="axonium.png" caption="Automatically measure the length of axons with a single mouse click." numbered="true">}}</center>
 
 
 The basic idea is the following:
 
-1. First isolate the axons by making it monochrome, i.e., each pixel is either false (black background) or true
+1. First isolate the axons by making the image monochrome, i.e., each pixel is either false (black background) or true
 (colored foreground = axons) based on an adjustable threshold.
 
 2. Then skeletonize the axons with the [medial axis transformation](https://scikit-image.org/docs/stable/api/skimage.morphology.html#skimage.morphology.medial_axis).

@@ -1,6 +1,6 @@
 ---
 title: Rolling Stock Scheduling Optimization
-summary: A collaboration between Swiss Federal Railways (SBB) and ETH Zurich.
+summary: A collaboration between Swiss Federal Railways (SBB) and ETH Zürich.
 tags:
   - Major
   - Optimization
@@ -19,7 +19,7 @@ links:
 # url_video: ''
 ---
 ### Project Objectives:
-This primary goal of this collaboration between Swiss Federal Railways (SBB) and ETH Zurich is to create
+This primary goal of this collaboration between Swiss Federal Railways (SBB) and ETH Zürich is to create
 an algorithm for optimal rolling stock schedules.
 
 #### Part I

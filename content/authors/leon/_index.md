@@ -15,8 +15,8 @@ role: Combinatorial Optimization Expert & Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zürich - Institute of Operations Research
-  url: https://math.ethz.ch/utils/search.Mjg2Mjc4.html?pagetype=people
+- name: ETH Zürich - Institute for Operations Research
+  url: https://math.ethz.ch/ifor
 
 # Short bio (displayed in user profile at end of posts)
 bio: My professional interests include Combinatorial Optimization, High Performance Computing, Meta-Heuristics, and Rust.
@@ -28,16 +28,16 @@ interests:
 - High Performance Computing
 - Meta-Heuristics
 - Algorithm Design
-- Parallelization
+- Parallelization/Concurrency
 - Rust (Programming Language)
 
 # Education to show in About widget
 education:
   courses:
-    - course: "Dr. rer. nat. in Mathematics, PhD thesis / topic: \"Nash Flows Over Time\""
+    - course: "Dr. rer. nat. in Mathematics (PhD), dissertation: \"Nash Flows Over Time\""
       institution: Technical University Berlin
       year: 2020
-    - course: Master of Advanced Studies - Mathematics
+    - course: Master of Advanced Studies in Mathematics
       institution: University of Cambridge
       year: 2014
     - course: Master of Science - Mathematics
@@ -143,7 +143,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-As a mathematician and computer scientist, I currently work as a Postdoc for the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zurich.
+As a mathematician and computer scientist, I currently work as a Postdoc for the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zürich.
 Beside my theoretical research on [Nash flows over time](/publication/sering-2020-diss) (agent-based traffic modelling), my true passion lies in optimization algorithms and high performance algorithm design.
 
 I lead two exciting industry collaborations:
@@ -153,10 +153,10 @@ I lead two exciting industry collaborations:
 - For the Swiss Federal Railways SBB, I'm developing a high performance algorithm for optimal [rolling stock scheduling](/project/rolling_stock_scheduling).
 
 My programming language of choice? **Rust**.
-This high performance system programming language, with focus on concurrency, is the perfect tool for my projects.
+This high performance system programming language, with focus on parallelization/concurrency, is the perfect tool for my projects.
 Plus, it's just plain fun to use!
 
-In my downtime, you will find me exploring the world together with my family -- through road trips, photography, and Scuba diving.
+In my downtime, you will find me (together with my familiy) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.
 
 ## Welcome to my website!
 Here, I showcase my [project](/#projects), my [scientific work](/#publications), and our incredible [travel adventures](/#travelling).

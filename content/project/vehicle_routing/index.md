@@ -1,6 +1,6 @@
 ---
 title: Fast Same-Day Delivery Optimization
-summary: A collaboration between Swiss Post / Notime and ETH Zurich.
+summary: A collaboration between Swiss Post / Notime and ETH Zürich.
 tags:
   - Major
   - Optimization
@@ -19,7 +19,7 @@ date: '2023-08-04T00:00:00Z'
 # url_video: ''
 ---
 ### Project Objectives:
-The collaboration between Swiss Post (and its subsidiary company Notime) and ETH Zurich is to optimize same-day shipment delivery in Zurich, Bern
+The collaboration between Swiss Post (and its subsidiary company Notime) and ETH Zürich is to optimize same-day shipment delivery in Zurich, Bern
 and eight other Swiss cities. 
 The primary objectives consist of efficiently scheduling shipments to driver tours while minimizing the number of late shipments, 
 the driver costs and the total driving distance.

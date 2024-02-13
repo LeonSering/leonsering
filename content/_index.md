@@ -101,7 +101,7 @@ sections:
       flip_alt_rows: false
 
   - block: collection
-    id: dissertation
+    id: publications
     content:
       title: Dissertation
       filters:

@@ -17,7 +17,7 @@ main:
     # url: '#talks'
     # weight: 40
   - name: Publications
-    url: '#dissertation'
+    url: '#publications'
     weight: 40
   - name: Travelling
     url: '#travelling'

@@ -32,8 +32,9 @@ sections:
           date_start: '2023-05-01'
           date_end: '2023-06-30'
           description: |2-
-              * consulting services in operations research and algorithm design for a line haul solution
-              * implementation of a fast multi-objective routing algorithm
+              Consulting services for a line haul solution:
+              * Design of mixed-integer linear program.
+              * Implementation of a fast multi-objective routing algorithm.
 
         - title: Postdoctoral Researcher
           company: ETH Zürich
@@ -44,8 +45,9 @@ sections:
           date_end: ''
           description: |2-
               Institute for Operations Research, Department of Mathematics:
-              * leading scientific projects in collaboration with SwissPost and SBB (swiss federal railways)
-              * research in operations research, efficient algorithms, meta-heuristics, and concurrency
+              * Leading scientific collaboration with Swiss Post and Swiss Federal Railways SBB.
+              * Design and implementation of fast clustering algorithm.
+              * Research in operations research, efficient algorithms, meta-heuristics, and parallelism.
 
         - title: Research Associate in Discrete Mathematics
           company: Technical University Berlin
@@ -57,7 +59,7 @@ sections:
           description: |2-
               Research Group: Combinatorial Optimization \& Graph Algorithm, Institute of Mathematics:
               * ECMath and MATH+ research projects: dynamic models and algorithms for equilibria in traffic networks.
-              * Research goals: improve mathematical flow over time models to connect with large-scale simulations such as MATSim.
+              * Research goals: improve agent-based mathematical flow over time models (Nash flow over time) to connect with large-scale traffic simulations such as MATSim.
     design:
       columns: '2'
 

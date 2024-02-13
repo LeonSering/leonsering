@@ -2,6 +2,46 @@ p, ul {
   text-align: justify
 }
 
+// skill boxes
+.wg-skills{
+  .col-md-6 {
+    margin-top: 30px;
+  }
+}
+
+.wg-about-biography {
+  .article-style{
+    margin-bottom: 50px;
+  }
+  .col-md-5 { // interests
+    flex-basis: 38%;
+    max-width: 38%;
+    .ul-interests {
+      list-style: circle;
+      margin-left: 30px;
+      text-align: left;
+      line-height: 2.2;
+      // margin-right: -10px;
+    }
+    i {
+      visibility: hidden;
+    }
+  }
+  .col-md-7 { // education
+    flex-basis: 62%;
+    max-width: 62%;
+    .ul-edu {
+      text-align: left;
+      // list-style: disc;
+      margin-left: 45px;
+      text-align: left;
+    }
+    i {
+      // visibility: hidden;
+    }
+  }
+}
+
 // all images
 img {
   transition: all 0.3s ease-out;

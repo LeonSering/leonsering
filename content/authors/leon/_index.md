@@ -28,13 +28,13 @@ interests:
 - High Performance Computing
 - Meta-Heuristics
 - Algorithm Design
-- Parallelization/Concurrency
+- Parallelism/Concurrency
 - Rust (Programming Language)
 
 # Education to show in About widget
 education:
   courses:
-    - course: "Dr. rer. nat. in Mathematics (PhD), dissertation: \"Nash Flows Over Time\""
+    - course: "Dr. rer. nat. in Mathematics (PhD)"
       institution: Technical University Berlin
       year: 2020
     - course: Master of Advanced Studies in Mathematics
@@ -92,13 +92,13 @@ skills:
     percent: 100
   - name: Linux / Bash / NeoVim
     description: ''
-    percent: 80
+    percent: 90
   - name: Gurobi / SCIP
     description: ''
-    percent: 60
+    percent: 80
   - name: Docker
     description: ''
-    percent: 60
+    percent: 80
 - name: Hobbies
   color: '#8cce00'
   color_border: '#9fd023'
@@ -153,7 +153,7 @@ I lead two exciting industry collaborations:
 - For the Swiss Federal Railways SBB, I'm developing a high performance algorithm for optimal [rolling stock scheduling](/project/rolling_stock_scheduling).
 
 My programming language of choice? **Rust**.
-This high performance system programming language, with focus on parallelization/concurrency, is the perfect tool for my projects.
+This high performance system programming language, with focus on parallelism/concurrency, is the perfect tool for my projects.
 Plus, it's just plain fun to use!
 
 In my downtime, you will find me (together with my familiy) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.

@@ -19,6 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+relativeURLs: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

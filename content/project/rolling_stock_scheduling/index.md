@@ -52,9 +52,12 @@ the optimality of classic minimum-cost flow algorithms ensures minimal overall c
 ### Technological Stack:
 Since mid- and short-term rescheduling of rolling stock units might be time-critically, and for meta-heuristics there is always a tradeoff between
 objective quality and running time, we decided to aim for a high performance approach utilizing a multicore architecture.
+
 - Rust: The core programming language, providing high performance, reliability, and enabling parallelism for efficient utilization
 of computational resources.
+
 - Docker: Used for containerization, ensuring a consistent and isolated environment for seamless deployment.
+
 - HTTP Server: Facilitating communication and interaction with the optimization algorithm, ensuring strict and reliable interfaces
 for efficient integration into the SBB framework.
 

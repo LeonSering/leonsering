@@ -144,13 +144,13 @@ social:
 highlight_name: true
 ---
 As a mathematician and computer scientist, I currently work as a Postdoc for the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zürich.
-Beside my theoretical research on [Nash flows over time](/publication/sering-2020-diss) (agent-based traffic modelling), my true passion lies in optimization algorithms and high performance algorithm design.
+Beside my theoretical research on [Nash flows over time](publication/sering-2020-diss) (agent-based traffic modelling), my true passion lies in optimization algorithms and high performance algorithm design.
 
 I lead two exciting industry collaborations:
 
-- With the Swiss Post, we optimize the tours for [same-day delivery](/project/vehicle_routing) in Zurich and other Swiss Cities using local-search-based meta-heuristics.
+- With the Swiss Post, we optimize the tours for [same-day delivery](project/vehicle_routing) in Zurich and other Swiss Cities using local-search-based meta-heuristics.
 
-- For the Swiss Federal Railways SBB, I'm developing a high performance algorithm for optimal [rolling stock scheduling](/project/rolling_stock_scheduling).
+- For the Swiss Federal Railways SBB, I'm developing a high performance algorithm for optimal [rolling stock scheduling](project/rolling_stock_scheduling).
 
 My programming language of choice? **Rust**.
 This high performance system programming language, with focus on parallelism/concurrency, is the perfect tool for my projects.
@@ -159,4 +159,4 @@ Plus, it's just plain fun to use!
 In my downtime, you will find me (together with my familiy) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.
 
 ## Welcome to my website!
-Here, I showcase my [project](/#projects), my [scientific work](/#publications), and our incredible [travel adventures](/#travelling).
+Here, I showcase my [project](#projects), my [scientific work](#publications), and our incredible [travel adventures](#travelling).

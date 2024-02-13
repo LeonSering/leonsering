@@ -12,7 +12,7 @@ date: '2023-08-04T00:00:00Z'
 #   - icon: github
 #     icon_pack: fab
 #     name: Code
-#     url: https://github.com/test
+#     url: https://github.com/
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''

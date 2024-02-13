@@ -21,18 +21,19 @@ links:
   - name: Crate
     url: https://crates.io/crates/ff_k_center
   - name: Publication
-    url: /publication/angelidakis-2022-fair
+    url: publication/angelidakis-2022-fair
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''
 ---
 ### Project Objectives:
-This project is about a highly efficient k-center algorithm, which is a central piece of [our publication](/publication/angelidakis-2022-fair)
+This project is about a highly efficient k-center algorithm, which is a central piece of [our publication](../../publication/angelidakis-2022-fair)
 at the International Conference on Machine Learning (ICML). The algorithm addresses two key issues faced by many clustering
 methods when used for data summarization:
 
 1. Unfair representation of “demographic groups”.
+
 2. Distorted summarizations, where data points in the summary represent subsets of the original data of vastly different sizes.
 
 Our k-center algorithm effectively addresses both issues simultaneously. It is fast, both in theory and practice, with a

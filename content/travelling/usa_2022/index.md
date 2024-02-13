@@ -16,7 +16,9 @@ sections:
         of the Southwest, Texas, Florida, the East Coast, the North, and the West Coast. From the iconic red rock formations
         of Arches and Canyonlands to the majestic beauty of Yosemite and Yellowstone, our journey allowed us to experience the
         diverse wonders of nature together.
+
         <center>{{< figure src="usa_route.jpeg" >}}</center>
+
         {{< gallery album="usa_2022" >}}
     design:
       columns: '1'

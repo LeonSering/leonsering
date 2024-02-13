@@ -143,7 +143,7 @@ sections:
       subtitle:
       text: |-
         Feel free to reach out for collaborative opportunities, academic discussions, or anything
-        related to operations research, algorithm design, or Rust. I look forward to engaging with fellow enthusiasts
+        related to operations research, combinatorial optimization, parallel algorithm design, or Rust. I look forward to engaging with fellow enthusiasts
         and professionals in the field!
       # Contact (add or remove contact options as necessary)
       email: leon@sering.eu

@@ -16,7 +16,9 @@ sections:
         remarkable wildlife encounters, including sightings of elephants, rhinos, giraffes, leopards, and lions. Continuing
         our exploration, we witnessed the breathtaking Victoria Falls before delving into the peaceful ambience of the
         Okavango Delta through an unforgettable mokoro trip.
+
         <center>{{< figure src="namibia_route.jpg" >}}</center>
+
         {{< gallery album="namibia_2018" >}}
     design:
       columns: '1'

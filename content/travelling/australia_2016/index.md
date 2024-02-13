@@ -16,7 +16,9 @@ sections:
         National Park, and the challenging Gibb River Road, including the Pentecost River crossing. Along the way,
         we marveled at the majestic Uluru, creating lasting memories of the diverse landscapes and experiences across
         the continent.
+
         <center>{{< figure src="australia_route.jpg" >}}</center>
+
         {{< gallery album="australia_2016" >}}
     design:
       columns: '1'

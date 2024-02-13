@@ -26,15 +26,15 @@ with Jan-Henrik Haunert. This leads to my [first publication](/publication/haune
 ### Project Objective:
 The tool allows the user to choose a focus region within a larger area on a road map, together with a zoom factor.
 By solving a convex quadratic program a new visualization of the road map is created, where all elements in the
-focus region are scaled by the zoom factor, all elements outside the area untouched and the elements within the
-area but outside the focus region are replaced such that the distortions are minimized.
+focus region are scaled by the zoom factor, all elements outside the area stay untouched and the elements within the
+area but outside the focus region are moved such that the distortions are minimized.
 
 <center>{{< figure src="focus_region.png" caption="Left: The original road map of Boston. Right: The focus region is enlarged by a factor of 3." numbered="true" >}}</center>
 
 The result is a new map, where the focus region is strongly enlarged, but still the map looks topologically very
 similar to the original map.
 
-A typical use case is the visualization of a long route from a dense city to another dense city on a GPS unit in a car.
+A typical use case is the visualization of a long route from a dense city to another dense city on a GPS unit.
 You can enlarge the area close to the origin and destination, where typically a lot of small roads are important
 for the driver. The route on the highway between the cities is usually easier to navigate, so it could be shrunk.
 

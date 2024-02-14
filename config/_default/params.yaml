@@ -18,18 +18,16 @@ i_am_a_sponsor: true
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Personal website of Leon Sering: Combinatorial optimization expert, Postdoctorial researcher at ETH Zürich, and Rust enthusiast.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
+    bing: ""
 
 # Site header
 header:

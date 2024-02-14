@@ -25,9 +25,8 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ""
-    baidu: ""
-    bing: ""
+    google: "jj9AzkT2xoeXTbZrmArnKIlirmDgq4BCccio_CcFqgM"
+    bing: "90F31A361C62A9028F5D7CEAAF08E5D8"
 
 # Site header
 header:

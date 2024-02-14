@@ -37,6 +37,7 @@ education:
     - course: "Dr. rer. nat. in Mathematics (PhD)"
       institution: Technical University Berlin
       year: 2020
+      grade: 1.0
     - course: Master of Advanced Studies in Mathematics
       institution: University of Cambridge
       year: 2014
@@ -80,14 +81,14 @@ skills:
   - name: Python
     description: ''
     percent: 70
-  - name: Java 
+  - name: Java
     description: ''
     percent: 70
 - name: Tools
   color: '#ce029c'
   color_border: '#d0239f'
   items:
-  - name: Git / GitLab
+  - name: Git / GitLab / GitHub
     description: ''
     percent: 100
   - name: Linux / Bash / NeoVim
@@ -112,7 +113,7 @@ skills:
   - name: Photography
     description: ''
     percent: 70
-  - name: Running 
+  - name: Running
     description: ''
     percent: 50
 
@@ -144,7 +145,7 @@ social:
 highlight_name: true
 ---
 As a mathematician and computer scientist, I currently work as a Postdoc for the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zürich.
-Beside my theoretical research on [Nash flows over time](publication/sering-2020-diss) (agent-based traffic modelling), my true passion lies in optimization algorithms and high performance algorithm design.
+Beside my theoretical research on [Nash flows over time](publication/sering-2020-diss) (agent-based traffic modeling), my true passion lies in optimization algorithms and high performance algorithm design.
 
 I lead two exciting industry collaborations:
 

@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Travelling
-    url: '#travelling'
+  - name: Traveling
+    url: '#traveling'
     weight: 50
   - name: Contact
     url: '#contact'

@@ -1,6 +1,6 @@
 ---
 title: Axonium
-summary: Automatically measuring the length of axons, the nerve fiber connections between neurons in a biological brain.
+summary: Automatic measurements of axon lengths, the nerve fibers connecting neurons in a brain.
 
 tags:
   - Minor

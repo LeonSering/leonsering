@@ -1,5 +1,5 @@
 ---
-title: Travelling
+title: Traveling
 cms_exclude: true
 
 # View.

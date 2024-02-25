@@ -1,6 +1,6 @@
 ---
 title: BWInf - Career Information Day Scheduling
-summary: Submission of the second round of the German National Competition in Computer Science in 2007/2008.
+summary: Submission for the second round of the German National Competition in Computer Science in 2007/2008.
 
 tags:
   - Minor

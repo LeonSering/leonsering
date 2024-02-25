@@ -6,7 +6,7 @@ summary: Over a period of six months, my girlfriend and I road-tripped across th
 type: landing
 sections:
   - block: markdown
-    id: travelling
+    id: traveling
     content:
       title: USA 2022
       subtitle: April 17 to October 11

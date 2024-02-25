@@ -103,7 +103,7 @@ skills:
   color: '#8cce00'
   color_border: '#9fd023'
   items:
-  - name: Travelling / Road Trips
+  - name: Traveling / Road Trips
     description: ''
     percent: 100
   - name: Scuba Diving
@@ -159,4 +159,4 @@ And most importantly: It's fun to use!
 In my downtime, you will find me (together with my family) exploring the wonders around the world -- through road trips, photography, and scuba diving.
 
 ## Welcome to my website!
-Here, I showcase my [projects](#projects), my [scientific work](#publications), and our [travel adventures](#travelling).
+Here, I showcase my [projects](#projects), my [scientific work](#publications), and our [travel adventures](#traveling).

@@ -1,6 +1,6 @@
 ---
 title: Magic Eye
-summary: A small Python-script to create a autostereogram.
+summary: A small Python-script to create an autostereogram.
 
 tags:
   - Minor

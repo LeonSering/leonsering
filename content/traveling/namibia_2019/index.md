@@ -5,7 +5,7 @@ summary: In Namibia and Botswana, my girlfriend and I explored Fish River Canyon
 type: landing
 sections:
   - block: markdown
-    id: travelling
+    id: traveling
     content:
       title: Namibia 2018
       subtitle: August 29 to September 28.

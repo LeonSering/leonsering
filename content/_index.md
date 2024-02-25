@@ -33,8 +33,8 @@ sections:
           date_end: '2023-06-30'
           description: |2-
               Consulting services for a line haul solution:
-              * Design of mixed-integer linear program.
-              * Implementation of a fast multi-objective routing algorithm.
+              * design of mixed-integer linear program
+              * implementation of a fast multi-objective routing algorithm
 
         - title: Postdoctoral Researcher
           company: ETH Zürich
@@ -45,9 +45,9 @@ sections:
           date_end: ''
           description: |2-
               Institute for Operations Research, Department of Mathematics:
-              * Leading scientific collaboration with Swiss Post and Swiss Federal Railways SBB.
-              * Design and implementation of fast clustering algorithm.
-              * Research in operations research, efficient algorithms, meta-heuristics, and parallelism.
+              * leading scientific collaboration with Swiss Post and Swiss Federal Railways SBB
+              * design and implementation of a fast clustering algorithm
+              * research in efficient algorithms, meta-heuristics, parallelism, and operations research
 
         - title: Research Associate in Discrete Mathematics
           company: Technical University of Berlin
@@ -58,8 +58,8 @@ sections:
           date_end: '2021-03-31'
           description: |2-
               Research Group: Combinatorial Optimization \& Graph Algorithm, Institute of Mathematics:
-              * ECMath and MATH+ research projects: dynamic models and algorithms for equilibria in traffic networks.
-              * Research goals: improve agent-based mathematical flow over time models (Nash flow over time) to connect with large-scale traffic simulations such as MATSim.
+              * ECMath and MATH+ research projects: dynamic models and algorithms for equilibria in traffic networks
+              * research goals: improving agent-based mathematical flow over time models (Nash flow over time) to connect with large-scale traffic simulations such as MATSim
     design:
       columns: '2'
 
@@ -126,12 +126,12 @@ sections:
       view: compact
 
   - block: collection
-    id: travelling
+    id: traveling
     content:
-      title: Travelling
+      title: Traveling
       filters:
         folders:
-          - travelling
+          - traveling
     design:
       columns: '2'
       view: showcase

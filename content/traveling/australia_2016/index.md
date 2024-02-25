@@ -5,7 +5,7 @@ summary: In 2016, my girlfriend and I completed Australia's "Big Lap," circling 
 type: landing
 sections:
   - block: markdown
-    id: travelling
+    id: traveling
     content:
       title: Australia 2016
       subtitle: Februar 6 to August 4

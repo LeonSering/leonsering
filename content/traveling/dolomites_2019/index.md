@@ -5,7 +5,7 @@ summary: In a 4-day hiking adventure through the Sexten Dolomites, my girlfriend
 type: landing
 sections:
   - block: markdown
-    id: travelling
+    id: traveling
     content:
       title: Dolomites 2019
       subtitle: August 26 to August 30

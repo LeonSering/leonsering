@@ -50,7 +50,7 @@ sections:
               * Research in operations research, efficient algorithms, meta-heuristics, and parallelism.
 
         - title: Research Associate in Discrete Mathematics
-          company: Technical University Berlin
+          company: Technical University of Berlin
           company_url: 'https://www3.math.tu-berlin.de/coga/'
           company_logo: TU-Berlin-Logo
           location: Berlin, Germany

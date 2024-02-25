@@ -9,7 +9,6 @@ last_name: Sering
 
 # Is this the primary user of the site?
 superuser: true
-
 # Role/position/tagline
 role: Combinatorial Optimization Expert & Postdoctoral Researcher
 
@@ -35,7 +34,7 @@ interests:
 education:
   courses:
     - course: "Dr. rer. nat. in Mathematics (PhD)"
-      institution: Technical University Berlin
+      institution: Technical University of Berlin
       year: 2020
       grade: 1.0
     - course: Master of Advanced Studies in Mathematics
@@ -144,20 +143,20 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-As a mathematician and computer scientist, I currently work as a Postdoc for the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zürich.
+As a mathematician and computer scientist, I currently work as a Postdoc at the [Institute for Operations Research](https://math.ethz.ch/ifor) at ETH Zürich.
 Beside my theoretical research on [Nash flows over time](publication/sering-2020-diss) (agent-based traffic modeling), my true passion lies in optimization algorithms and high performance algorithm design.
 
-I lead two exciting industry collaborations:
+At the moment I am in the lead of two exciting industry collaborations:
 
-- With the Swiss Post, we optimize the tours for [same-day delivery](project/vehicle_routing) in Zurich and other Swiss Cities using local-search-based meta-heuristics.
+- With the Swiss Post, we optimize the tours for [same-day delivery](project/vehicle_routing) in Zurich and other Swiss cities using local-search-based meta-heuristics.
 
 - For the Swiss Federal Railways SBB, I'm developing a high performance algorithm for optimal [rolling stock scheduling](project/rolling_stock_scheduling).
 
 My programming language of choice? **Rust**.
-This high performance system programming language, with focus on parallelism/concurrency, is the perfect tool for my projects.
-Plus, it's just plain fun to use!
+This high performance system programming language, with focus on fearless concurrency, is the ideal tool for my projects.
+And most importantly: It's fun to use!
 
-In my downtime, you will find me (together with my family) exploring the wonders of our planet -- through road trips, photography, and Scuba diving.
+In my downtime, you will find me (together with my family) exploring the wonders around the world -- through road trips, photography, and scuba diving.
 
 ## Welcome to my website!
-Here, I showcase my [project](#projects), my [scientific work](#publications), and our incredible [travel adventures](#travelling).
+Here, I showcase my [projects](#projects), my [scientific work](#publications), and our [travel adventures](#travelling).

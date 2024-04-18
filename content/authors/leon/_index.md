@@ -60,13 +60,16 @@ skills:
     percent: 100
   - name: Meta-Heuristics
     description: ''
-    percent: 90
+    percent: 100
   - name: Fast Parallel Algorithms
     description: ''
-    percent: 80
+    percent: 90
   - name: Mathematical Programming
     description: ''
-    percent: 80
+    percent: 90
+  - name: Traffic / Logistic Optimization
+    description: ''
+    percent: 90
 - name: Programming
   color: '#eeac02'
   color_border: '#f0bf23'
@@ -76,13 +79,16 @@ skills:
     percent: 100
   - name: Scala
     description: ''
-    percent: 80
+    percent: 100
+  - name: C++
+    description: ''
+    percent: 90
   - name: Python
     description: ''
-    percent: 70
+    percent: 90
   - name: Java
     description: ''
-    percent: 70
+    percent: 90
 - name: Tools
   color: '#ce029c'
   color_border: '#d0239f'
@@ -90,15 +96,18 @@ skills:
   - name: Git / GitLab / GitHub
     description: ''
     percent: 100
-  - name: Linux / Bash / NeoVim
+  - name: NeoVim
+    description: ''
+    percent: 100
+  - name: Linux / Bash
     description: ''
     percent: 90
   - name: Gurobi / SCIP
     description: ''
-    percent: 80
+    percent: 90
   - name: Docker
     description: ''
-    percent: 80
+    percent: 90
 - name: Hobbies
   color: '#8cce00'
   color_border: '#9fd023'
@@ -109,12 +118,15 @@ skills:
   - name: Scuba Diving
     description: ''
     percent: 100
+  - name: Computer Games / Virtual Reality
+    description: ''
+    percent: 100
   - name: Photography
     description: ''
-    percent: 70
+    percent: 80
   - name: Running
     description: ''
-    percent: 50
+    percent: 70
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -12,7 +12,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: https://github.com/LeonSering/eth_sbb_rolling_stock_scheduling
+    url: https://github.com/rolling-stock-scheduling
 # url_code: ''
 # url_pdf: ''
 # url_slides: ''

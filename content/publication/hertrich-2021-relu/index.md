@@ -1,16 +1,16 @@
 ---
 title: ReLU Neural Networks of Polynomial Size for Exact Maximum Flow Computation
 authors:
-- Christoph Hertrich
-- Leon Sering
-date: '2023-01-01'
-publishDate: '2024-02-04T16:35:35.079047Z'
+  - Christoph Hertrich
+  - Leon Sering
+date: "2024-05-25"
+publishDate: "2025-01-02T14:31:27.123791Z"
 publication_types:
-- paper-conference
-publication: "*International Conference on Integer Programming and Combinatorial Optimization
-  (IPCO '23)*"
-doi: 10.1007/978-3-031-32726-1_14
-abstract: This paper studies the expressive power of artificial neural networks with
+  - article-journal
+publication: "*Mathematical Programming*"
+doi: https://doi.org/10.1007/s10107-024-02096-x
+abstract:
+  This paper studies the expressive power of artificial neural networks with
   rectified linear units. In order to study them as a model of real-valued computation,
   we introduce the concept of Max-Affine Arithmetic Programs and show equivalence
   between them and neural networks concerning natural complexity measures. We then
@@ -24,6 +24,6 @@ abstract: This paper studies the expressive power of artificial neural networks 
   these two problems can be solved with strongly polynomial time algorithms that solely
   uses affine transformations and maxima computations, but no comparison-based branchings.
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2102.06635
+  - name: arXiv
+    url: https://arxiv.org/abs/2102.06635
 ---

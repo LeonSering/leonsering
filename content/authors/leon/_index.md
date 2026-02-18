@@ -9,12 +9,12 @@ last_name: Sering
 # Is this the primary user of the site?
 superuser: true
 # Role/position/tagline
-role: Senior Algorithm Engineer & Optimization Expert
+role: Lead Algorithm / Software Engineer & Optimization Expert
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MOIA
-    url: https://www.moia.io
+  - name: HERE Technologies
+    url: https://www.here.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My professional interests include Combinatorial Optimization, High Performance Computing, Meta-Heuristics, and Rust.
@@ -155,7 +155,7 @@ social:
 highlight_name: true
 ---
 
-I am a mathematician and computer scientist developing routing algorithms for MOIA. In addition to my theoretical research on Nash flows over time (agent-based traffic modeling), I have a strong passion for fast optimization algorithms.
+I am a mathematician and computer scientist developing a rich-VRP solver at HERE, and in addition to my theoretical research on Nash flows over time (agent-based traffic modeling), I have a strong passion for fast optimization algorithms.
 
 My programming language of choice? Rust. This high-performance systems programming language, with its focus on fearless concurrency, is the perfect tool for my projects. And most importantly: it’s fun to use!
 

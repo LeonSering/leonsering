@@ -24,15 +24,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Lead Algorithm / Software Engineer
+          company: HERE Technologies
+          company_url: "https://www.here.com"
+          company_logo: HERE
+          location: Berlin, Germany
+          date_start: "2026-01-01"
+          date_end: ""
+          description: |2-
+              As Lead Algorithm / Software Engineer in the Tour Planning Team:
+              * Improving and further developing a rich Vehicle Routing Problem (VRP) solver in Rust
+              * Developing new state-of-the-art meta-heuristics
+
         - title: Senior Algorithm Engineer
           company: MOIA
           company_url: "https://moia.io"
           company_logo: MOIA
           location: Berlin, Germany
           date_start: "2024-08-01"
-          date_end: ""
+          date_end: "2025-12-31"
           description: |2-
-              As a Senior Algorithm Engineer in the Routing Team I am responsible for developing state-of-the-art
+              As a Senior Algorithm Engineer in the Routing Team I was responsible for developing state-of-the-art
               routing algorithms in a AWS cloud environment using Rust: 
               * customizable contraction hierarchies
               * via-routing

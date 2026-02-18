@@ -157,9 +157,9 @@ highlight_name: true
 
 I am a mathematician and computer scientist developing a rich-VRP solver at HERE, and in addition to my theoretical research on Nash flows over time (agent-based traffic modeling), I have a strong passion for fast optimization algorithms.
 
-My programming language of choice? Rust. This high-performance systems programming language, with its focus on fearless concurrency, is the perfect tool for my projects. And most importantly: it’s fun to use!
+My programming language of choice? Rust. It's fast, safe, great for concurrency, and most importantly: fun to use!
 
-In my downtime, you’ll find me with my family, exploring the wonders of the world through road trips, photography, and scuba diving.
+In my downtime, you'll find me with my wife and our two lovely children, exploring the wonders of the world through road trips, photography, and scuba diving.
 
 ## Welcome to my website!
 

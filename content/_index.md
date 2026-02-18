@@ -75,7 +75,7 @@ sections:
               * With the Swiss Post, we optimized the tours for same-day delivery in Zurich and other Swiss cities using local-search-based meta-heuristics.
               * For the Swiss Federal Railways SBB, I developed a high performance algorithm for optimal rolling stock scheduling.
 
-              Furthermore, my reasearch included
+              Furthermore, my research included
               * Nash flows over time (agent-based traffic modeling)
               * design and implementation of a fast clustering algorithm
               * research in efficient algorithms, meta-heuristics, parallelism, and operations research
@@ -173,9 +173,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to reach out for collaborative opportunities, academic discussions, or anything
-        related to operations research, combinatorial optimization, parallel algorithm design, or Rust. I look forward to engaging with fellow enthusiasts
-        and professionals in the field!
+        Feel free to reach out for collaborations, discussions, or anything
+        related to operations research, combinatorial optimization, parallel algorithm design, or Rust. I'm always happy to connect!
       # Contact (add or remove contact options as necessary)
       email: leon@sering.eu
       #phone: 888 888 88 88

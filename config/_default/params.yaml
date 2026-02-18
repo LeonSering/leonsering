@@ -18,7 +18,7 @@ i_am_a_sponsor: true
 marketing:
   seo:
     site_type: Person
-    description: 'Personal website of Leon Sering: Combinatorial optimization expert, Postdoctorial researcher at ETH Zürich, and Rust enthusiast.'
+    description: 'Personal website of Leon Sering: Lead Algorithm Engineer at HERE Technologies, combinatorial optimization expert, and Rust enthusiast.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

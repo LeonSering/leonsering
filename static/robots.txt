@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.pdf$
+Allow: /uploads/CV_Leon_Sering.pdf
+
+Sitemap: https://leon.sering.eu/sitemap.xml

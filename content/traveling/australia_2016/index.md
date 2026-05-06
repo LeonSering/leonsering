@@ -1,6 +1,6 @@
 ---
 title: Australia 2016
-date: 2016
+date: 2016-08-04
 summary: In 2016, my girlfriend and I did Australia's "Big Lap" in our Mazda "Chuck", from Sydney along the Great Ocean Road, through Karijini NP, the Gibb River Road, and out to Uluru.
 type: landing
 sections:

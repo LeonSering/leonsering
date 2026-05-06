@@ -1,6 +1,6 @@
 ---
 title: Dolomites 2019
-date: 2019
+date: 2019-08-30
 summary: A 4-day hike through the Sexten Dolomites with my girlfriend, over the Elferscharte to Zsigmondyhütte, around the Drei Zinnen, and down to Misurina Lake.
 type: landing
 sections:

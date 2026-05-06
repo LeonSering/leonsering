@@ -1,6 +1,6 @@
 ---
 title: USA 2022
-date: 2022
+date: 2022-10-11
 show_date: false
 summary: Six months road-tripping across the stunning landscapes of the US with my girlfriend in our Jeep "Rusty", from the red rocks of Utah to the East Coast, Yellowstone, and Yosemite.
 type: landing

@@ -1,6 +1,6 @@
 ---
 title: Namibia 2018
-date: 2018
+date: 2018-09-28
 summary: My girlfriend and I explored Namibia and Botswana, from Fish River Canyon and Sossusvlei to wildlife in Etosha, then on to Victoria Falls and a mokoro trip in the Okavango Delta.
 type: landing
 sections:
